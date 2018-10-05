@@ -22,7 +22,7 @@ html {
 @media (min-width:642px) and (max-width:1090px) {
   #dolphin {
   position: static;
-  top: 600px;
+  top: 400px;
   right: 0;
   transform:rotate(-45deg);
 }
